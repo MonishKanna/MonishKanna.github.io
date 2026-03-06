@@ -429,7 +429,7 @@ const experience = {
           color: "#000000",
         },
         {
-          title: "Software Engineer",
+          title: "Software Engineer - Data Science",
           company: "Magzter Digital Private Limited",
           company_url:
             "https://www.magzter.com/?utm_source=google&utm_medium=cpc&gad_source=1&gclid=Cj0KCQjw4cS-BhDGARIsABg4_J0BrCiaa8We3VMLZUd6R2EEp7gbE3olWTGHj9aZoR9G74B4QUUUB-MaAt94EALw_wcB",
@@ -453,7 +453,7 @@ const experience = {
           duration: "June 2021 - September 2021",
           location: "Chennai, Tamil Nadu, India",
           description:
-            "Integrated mobile devices with common operating systems and configurations using Node.js, ensuring seamless communication, security, and performance optimization.",
+            "⚡ Led A/B testing initiatives for marketing and customer engagement campaigns, designing controlled experiments using Bayesian inference and multivariate testing, delivering insights that improved conversion rates by 22% and enhanced user segmentation strategies.",
           color: "#000000",
         },
         {
