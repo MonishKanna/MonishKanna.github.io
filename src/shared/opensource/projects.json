@@ -2,19 +2,15 @@
   "data": [
     {
       "id": "R_kgDOJWL0-g",
-      "name": "mdp-diffusion",
-      "createdAt": "2023-04-13T04:18:19Z",
-      "url": "https://github.com/ashutosh1919/mdp-diffusion",
-      "description": "Text-guided image editing by manipulating diffusion path without any training.",
+      "name": "Android Health Check",
+      "createdAt": "2023-12-10",
+      "url": "https://github.com/MonishKanna/Android-Health-Check",
+      "description": "🧨 Developed predictive models for Android malware detection using dimensionality reduction and advanced classification algorithms, ensuring precise health classification.",
       "isFork": false,
       "languages": [
         {
           "name": "Python",
           "iconifyClass": "logos-python"
-        },
-        {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
         },
         {
           "name": "Jupyter Notebook",
@@ -24,10 +20,42 @@
     },
     {
       "id": "R_kgDOG_vYHA",
-      "name": "explainable-cnn",
-      "createdAt": "2022-03-13T20:41:33Z",
-      "url": "https://github.com/ashutosh1919/explainable-cnn",
-      "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
+      "name": "Exploring Mental Health",
+      "createdAt": "2024-12-01",
+      "url": "https://github.com/MonishKanna/Exploring-Mental-Health",
+      "description": "🚀 Developed machine learning models to predict depression based on factors like work pressure and sleep duration, achieving high accuracy with XGBoost and Random Forest classifiers",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Amazon Prime Video Insights",
+      "createdAt": "2024-01-03",
+      "url": "https://public.tableau.com/app/profile/monish.kanna.suresh/viz/Amazon_Prime_Dataset/AmazonPrime?publish=yes",
+      "description": "🔥 Created an interactive Tableau dashboard for Amazon Prime Video (2000-2022) to visualize key industry insights, including TV/movie ratios, top genres, production countries, and ratings.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Tableau",
+          "iconifyClass": "logos:tableau"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG0_8uQ",
+      "name": "Facial Keypoints Detection",
+      "createdAt": "2023-05-11",
+      "url": "https://github.com/MonishKanna/Facial-Checkpoints-Detection",
+      "description": "🌀 Developed CNN model to accurately identify facial landmarks, improving performance through data preprocessing and model optimization.",
       "isFork": false,
       "languages": [
         {
@@ -37,63 +65,11 @@
       ]
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio",
-      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "Dockerfile",
-          "iconifyClass": "simple-icons:docker"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOG0_8uQ",
-      "name": "react-awesome-shapes",
-      "createdAt": "2022-02-11T14:50:20Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes",
-      "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        }
-      ]
-    },
-    {
       "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
-      "createdAt": "2021-11-26T17:56:07Z",
-      "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
+      "name": "Vaccine Optimization Analysis",
+      "createdAt": "2023-05-20",
+      "url": "https://github.com/MonishKanna/Covid-Vaccine-Optimization-Analysis",
+      "description": "💉 Optimized vaccine distribution using linear programming to minimize unvaccinated populations, considering vaccine supply and key demographic data",
       "isFork": false,
       "languages": [
         {
@@ -104,19 +80,15 @@
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "react-liquidswipe",
-      "createdAt": "2021-01-01T08:31:51Z",
-      "url": "https://github.com/ashutosh1919/react-liquidswipe",
-      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
+      "name": "Emotion Based Music Recommender",
+      "createdAt": "2022-12-15",
+      "url": "https://github.com/MonishKanna/Emotion-Based-Music-Recommender",
+      "description": "🎧 Developed a deep learning model for personalized music recommendations by analyzing real-time emotions through facial expression classification using a CNN, categorizing emotions into seven distinct types.",
       "isFork": false,
       "languages": [
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "Python",
+          "iconifyClass": "logos-python"
         }
       ]
     }
